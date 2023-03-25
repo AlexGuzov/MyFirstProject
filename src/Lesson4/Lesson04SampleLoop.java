@@ -1,3 +1,5 @@
+package Lesson4;
+
 public class Lesson04SampleLoop {
     public static void main(String[] args) {
         long number = 5, faktorial = 1;
