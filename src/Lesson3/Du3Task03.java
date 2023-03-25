@@ -11,7 +11,7 @@ public class Du3Task03 {
 
         System.out.print("Enter product price: ");
         double price = inputnumber.nextDouble();
-        System.out.print("Enter product quantity : ");
+        System.out.print("Enter product quantity: ");
         double quantity = inputnumber.nextDouble();
 
         double revenue = price * quantity;
