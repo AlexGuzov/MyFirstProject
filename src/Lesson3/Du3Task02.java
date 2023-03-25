@@ -1,4 +1,4 @@
-/*Write a program that asks the user to enter a number and displays the absolute value of that number.*/
+package Lesson3;/*Write a program that asks the user to enter a number and displays the absolute value of that number.*/
 
 import java.util.Scanner;
 
