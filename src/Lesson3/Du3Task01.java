@@ -1,4 +1,4 @@
-/*Write a program that asks the user to enter a number and displays whether entered number is an odd number or even number.*/
+package Lesson3;/*Write a program that asks the user to enter a number and displays whether entered number is an odd number or even number.*/
 import java.util.Scanner;
 
 public class Du3Task01 {
