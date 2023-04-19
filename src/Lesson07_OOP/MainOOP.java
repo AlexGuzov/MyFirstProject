@@ -36,4 +36,3 @@ public class MainOOP {
         System.out.println("Vratenie bolo " + success);
     }
 }
-/zoznam knih a
